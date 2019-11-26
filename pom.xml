@@ -13,7 +13,7 @@
     <properties>
         <encoding>UTF-8</encoding>
         <scala.version>2.11.4</scala.version>
-        <spark.version>2.1.2</spark.version>
+        <spark.version>2.4.4</spark.version>
         <hadoop.version>2.6.0</hadoop.version>
         <!--<scope.flag>provided</scope.flag>-->
         <scope.flag>compile</scope.flag>
