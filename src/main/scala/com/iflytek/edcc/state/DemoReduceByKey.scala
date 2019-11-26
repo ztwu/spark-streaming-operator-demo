@@ -1,4 +1,4 @@
-package com.iflytek.edcc
+package com.iflytek.edcc.state
 
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 import org.apache.spark.{SparkConf, SparkContext}

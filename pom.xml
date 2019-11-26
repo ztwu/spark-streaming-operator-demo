@@ -22,15 +22,9 @@
     <repositories>
 
         <repository>
-            <id>com</id>
-            <name>iflytek</name>
-            <url>http://maven.iflytek.com:8081/nexus/content/groups/public/</url>
-        </repository>
-
-        <repository>
-            <id>com2</id>
-            <name>iflytek2</name>
-            <url>http:/172.16.59.13:48081/nexus/content/groups/public/</url>
+            <id>cloudera</id>
+            <name>cloudera</name>
+            <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
         </repository>
 
         <repository>
